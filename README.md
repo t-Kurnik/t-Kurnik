@@ -7,7 +7,9 @@
 Study Analysis and Systems Development.
 
 In my free time, I study math.
- 
+
+
+## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/t-Kurnik)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ta%C3%ADs-k-76baa5181/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=551111990001359&text=Hello!)](https://api.whatsapp.com/send?phone=551111990001359&text=Hello!)
