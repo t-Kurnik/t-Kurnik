@@ -6,7 +6,7 @@
 
 Study Analysis and Systems Development.
 
-In my free time, I study math.
+In my free time, I study math and playing video game.
 
 
 ## About me
