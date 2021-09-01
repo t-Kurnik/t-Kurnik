@@ -2,7 +2,7 @@
  
 # Welcome!
  
-## I'm Kurnik! Let's see a little about my life...
+## I'm Kurnik! Let's see a little about my life... :D
 
 Study Analysis and Systems Development.
 
