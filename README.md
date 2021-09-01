@@ -3,7 +3,10 @@
 # Welcome!
  
 ## I'm Kurnik! Let's see a little about my life...
- 
+
+Study Analysis and Systems Development.
+
+In my free time, I study math.
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/t-Kurnik)
