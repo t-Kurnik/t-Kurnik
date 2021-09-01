@@ -2,7 +2,7 @@
  
 # Welcome!
  
-## I'm Kurnik!
+## I'm Kurnik! Let's see a little about my life...
  
  
 ## About me 
