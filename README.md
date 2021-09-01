@@ -1,4 +1,4 @@
-<img align="right" width="360" height="300" src="https://github.com/t-Kurnik/t-Kurnik/blob/main/readme_images/batman.gif">
+<img align="right" width="350" height="350" src="https://github.com/t-Kurnik/t-Kurnik/blob/main/readme_images/batman.gif">
  
 # Welcome!
  
