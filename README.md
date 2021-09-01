@@ -4,8 +4,6 @@
  
 ## I'm Kurnik!
  
-… Insira suas descrições aqui!
- 
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/t-Kurnik)
